@@ -1,5 +1,5 @@
 ## Real World Vue 3 - Vue Mastery
-• Building a Vue 3 app
+Building a Vue 3 app
 • Create-Vue – creating the project
 • Single File Components
 • Vue Router Essentials
